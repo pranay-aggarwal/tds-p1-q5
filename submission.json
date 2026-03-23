@@ -1,0 +1,7 @@
+{
+  "prompt": "A photorealistic oil painting of a long symmetrical American suburban street at blue-hour dusk, perfect vanishing point centered, identical small houses on both sides. The pattern is strict and visible: three consecutive houses warmly lit with amber window glow and porch lights on, then one house completely dark with no light whatsoever — this 3-lit-1-dark alternating pattern repeats down the full length of the street. The dark houses are in perfect condition, identical to the lit ones — same lawn, same mailbox, same structure — only the light is absent. On the front step of each dark house, a clearly visible pair of worn white sneakers sits alone. The street is well-maintained, ordinary, not abandoned. Overall palette is blue-grey dusk, warm amber only in lit windows. No people, no text, no labels. Quiet and heavy.make it into a hand drawn painting.add one small syringe and some pills very subtle infront of the house that is black",
+  "model": "DALL-E 3",
+  "dataset_name": "CDC WONDER Drug Overdose Death Counts, 2022",
+  "dataset_url": "https://wonder.cdc.gov/mcd-icd10-provisional.html",
+  "insight": "In 2022, the US recorded 109,680 overdose deaths — the highest ever — meaning in the worst-affected communities, roughly one household per neighborhood goes dark every year."
+}
