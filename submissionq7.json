@@ -4,5 +4,5 @@
   "concept": "Gradient Descent",
   "tradition_name": " Hokusai Ukiyo-e",
   "tradition_period": "1830",
-  "tradition_approach": The mountain terrain encodes the loss landscape; the pilgrim watching only his feet represents local gradient information; ghost-figures trace the optimization path; a stranded figure in a shallow bowl maps to a local minimum visible from the image alone"
+  "tradition_approach": "The mountain terrain encodes the loss landscape; the pilgrim watching only his feet represents local gradient information; ghost-figures trace the optimization path; a stranded figure in a shallow bowl maps to a local minimum visible from the image alone"
 }
